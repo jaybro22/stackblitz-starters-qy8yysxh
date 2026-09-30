@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "servor --reload"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.6.1",
+    "postcss": "^8.5.28",
+    "servor": "^4.0.2",
+    "tailwindcss": "^4.3.3"
+  }
+}
